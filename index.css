@@ -1,0 +1,10 @@
+.flex-form {
+    display: flex;
+    flex-direction: column;
+    margin: lem 0 lem 0;
+}
+
+.my-imput,
+.submit-buttom {
+    margin-top: lem;
+}
